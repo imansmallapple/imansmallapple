@@ -1,16 +1,20 @@
-# Hi 👋, I'm Chen Song
+# Hi 👋, I'm Chen
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Imperial&pause=1000&width=435&lines=Able+to+make+the+guitar+ring+%F0%9F%8E%B8;Software+developer+on+HarmonyOS+%F0%9F%93%B1;A+Student+in+WUT+%F0%9F%8F%AB;Like+making+new+friends+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 ### A passionate application developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imansmallapple&label=Profile views&color=0e75b6&style=flat" alt="imansmallapple" /> </p>
+- 🔭 Working on **Open Source Software Engineer at Huawei**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imansmallapple" alt="imansmallapple" /></a> </p>
+- 🌱 Currently learning **Japanese** and **Web Coding**
 
-- 🔭 I'm currently working on ** Open Source Software Engineer at Huawei **
+- 🏫 A Student in **Warsaw University of Technology**
 
-- 🌱 I'm currently learning **react & django for web coding**
+- 🎸 Able to make the **guitar** ring 
 
 - 💬 Ask me about **OpenHarmony/HarmonyOS application development**
+
+- 🌸 Like **anime** and **making friends**
 
 - 📫 How to reach me **alf138540fun@gmail.com**
 
