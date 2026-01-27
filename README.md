@@ -6,7 +6,7 @@
 
 - 🔭 Working on **Open Source Software Engineer at Huawei**
 
-- 🌱 Currently learning **Japanese** and **Web Coding**
+- 🌱 Currently learning **Japanese** and **Vibe Coding**
 
 - 🏫 A Student in **Warsaw University of Technology**
 
