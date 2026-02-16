@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Open Source Software at Huawei** as a Software Engineer.
 - 🌱 I’m currently learning **Japanese** and exploring **Vibe Coding**.
 - 🏫 I'm a student at **Warsaw University of Technology**.
-- 🎸 In my free time, I love to play guitar and make VOCALOID music.
+- 🎸 In my free time, I love to play **guitar** and make **VOCALOID** music.
 - 💬 Ask me about **OpenHarmony / HarmonyOS application development**.
 - 🌸 I love **anime** and making new friends.
 - 📫 Reach me at: **alf138540fun@gmail.com**
