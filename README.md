@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imansmallapple&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="imansmallapple's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imansmallapple&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=imansmallapple&show_icons=true&theme=radical&border_radius=10" alt="imansmallapple's GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=imansmallapple&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
 </p>
 
 <p align="center">
