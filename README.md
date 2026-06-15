@@ -34,10 +34,6 @@
   <img src="https://github-readme-stats-one.vercel.app/api?username=imansmallapple&show_icons=true&theme=radical&border_radius=10" alt="imansmallapple's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imansmallapple&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
